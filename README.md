@@ -33,7 +33,7 @@ python voxel.py
 ## Technologie
 
 - Python 3.10+
-- [Ursina Engine](https://www.ursinaengine.org/) (wrapper nad Panda3D)
+- [Ursina Engine](https://www.ursinaengine.org/)
 
 ## Uwagi
 
